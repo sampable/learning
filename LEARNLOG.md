@@ -10,3 +10,6 @@
 - [x] markdown header need space after ###
 - [x] markdown checkbox need space between [ and ]
 - [x] create symbolic link to /usr/local/bin in order to support subl command
+- [ ] hello world express framework (node.js)
+- [x] use "npm install --no-save" when the package not suppose to be deployed to production (e.g. debug heapdump), or you want to try the package first before deciding to use it or not
+- [x] "npm install --save" will add the package to the dependencies list, which is that package will be installed when we run "npm install"
