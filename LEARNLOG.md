@@ -6,3 +6,5 @@
 - [ ] what is login shells and interactive shells ?
 - [x] to remove package from sublime text 3: Preference -> Package Control -> Remove Package
 - [x] "git push -u" means set upstream when push
+- [x] markdown header need space after ###
+- [x] markdown checkbox need space between [ and ]
