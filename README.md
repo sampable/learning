@@ -1,2 +1,2 @@
-###Learning Records for my own review
+### Learning Records for my own review
 This is a repository of my software development related learning records. The name is "learning" but not simply "learn" is because I would like to keep learning for a very long time (in my whole career or even after retirement).
