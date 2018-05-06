@@ -18,4 +18,9 @@
 - [x] import node.js module using require()
 - [ ] how to serve static file to publich ?
 - [ ] what is nodemon ?
-- [ ] how to generate basic files and folders for express
+- [ ] how to generate basic files and folders for express ?
+
+2018-05-06
+- [ ] what is loader for webpack ?
+- [x] "open ." will open finder for current directory
+- [ ] what the differents between "ng serve" and "ng build"
