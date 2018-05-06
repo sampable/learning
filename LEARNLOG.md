@@ -1,4 +1,5 @@
 2018-05-05
+- [x] init a node.js directory with "npm init"
 - [x] /usr means shared, read-only data for every users
 - [x] /usr/bin means programs which are not system programs (mean not used to booting or reparing the system)
 - [x] shell script is more general terms, while bash script is one kind of shell script
