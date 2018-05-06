@@ -16,7 +16,7 @@
 - [x] "npm install --save" will add the package to the dependencies list, which is that package will be installed when we run "npm install"
 - [x] create node.js module using exports
 - [x] import node.js module using require()
-- [ ] how to serve static file to publich ?
+- [ ] how to serve static file to public ?
 - [ ] what is nodemon ?
 - [ ] how to generate basic files and folders for express ?
 
