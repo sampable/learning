@@ -16,11 +16,14 @@
 - [x] "npm install --save" will add the package to the dependencies list, which is that package will be installed when we run "npm install"
 - [x] create node.js module using exports
 - [x] import node.js module using require()
-- [ ] how to serve static file to public ?
-- [ ] what is nodemon ?
-- [ ] how to generate basic files and folders for express ?
+- [x] how to serve static file to public ? "app.use('asset', express.static('public'))" will serve files in "public" foler to "http://baseurl/asset" url
+- [x] what is nodemon ? nodemon is a wrapper for node which will monitor any source code change happen in node.js application and restart the app automatically
+- [x] how to generate basic files and folders for express ? "express --view=pug myapp"
 
 2018-05-06
-- [ ] what is loader for webpack ?
+- [x] what is loader for webpack ? preprocessor for file in webpack
 - [x] "open ." will open finder for current directory
-- [ ] what the differents between "ng serve" and "ng build"
+- [x] what the differents between "ng serve" and "ng build" ? "ng serve" will compile the code and start an http server, while "ng build" will build the app to an output directory
+
+2018-05-07
+- [ ] try gsamokovarov/jump
