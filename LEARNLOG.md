@@ -16,7 +16,7 @@
 - [x] "npm install --save" will add the package to the dependencies list, which is that package will be installed when we run "npm install"
 - [x] create node.js module using exports
 - [x] import node.js module using require()
-- [x] how to serve static file to public ? "app.use('asset', express.static('public'))" will serve files in "public" foler to "http://baseurl/asset" url
+- [x] how to serve static file to public ? `app.use('asset', express.static('public'))` will serve files in "public" foler to "http://baseurl/asset" url
 - [x] what is nodemon ? nodemon is a wrapper for node which will monitor any source code change happen in node.js application and restart the app automatically
 - [x] how to generate basic files and folders for express ? "express --view=pug myapp"
 
@@ -27,3 +27,9 @@
 
 2018-05-07
 - [ ] try gsamokovarov/jump
+
+2018-05-09
+- [ ] what is .bashrc ?
+- [ ] what is `jump shell` ?
+- [ ] what is `eval` in bash ?
+- [ ] what is the meaning of $ in `eval "$(jump shell)"`
