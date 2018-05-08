@@ -33,7 +33,8 @@
 - [ ] what is `jump shell` ?
 - [ ] what is `eval` in bash ?
 - [ ] what is the meaning of $ in `eval "$(jump shell)"`
-- [ ] test multiple lines code ```javascript
+- [ ] test multiple lines code 
+```javascript
 var s = "JavaScript syntax highlighting";
 alert(s);
 ```
