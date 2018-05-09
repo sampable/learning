@@ -1,0 +1,46 @@
+# codeaholics meetups
+## docker
+### latest features of docker
+- keep image as small as possible
+- multi-stage builds: add "copy" allow to copy only build artifacts to production image
+- chrome extension "play with docker" install, "Try in PWD" button will added in hub.docker.com
+- PWD: access expose url by click on port number under the IP
+- service orchestration ?
+- kubernetes support natively
+- github docker-contact
+## demo
+- `docker-compose up -d`
+- `docker-compose ps`
+- localhost:8080
+- `docker-compose down` kill the app
+- `docker stack deploy -c docker-compose.yml docker-contact` deploy to kubernetes
+- `docker stack ls`
+- `kubectl get nodes` alternative using kubernetes command
+- `kubectl get all` alternative using kubernetes command
+## data science of go go van
+### demo
+- https://data.gogo.tech
+- html report (notebook)
+- outliner (long wait call)
+- driver and order pattern
+- own route optimization
+- gogotrack
+- sql online query tool with sharing function (optimize for human readable)
+- education section sharing traing and video inside team
+- use docker to ease new comers environment setup, with every data science related library and tools
+- meetings share finding to the whole company, with retro meeting later
+- util show expected and actual compare (prediction on KPI)
+### tech stack
+- python (mostly)
+- d3.js
+- react.js (data.gogo.tech)
+- postgre db (old)
+- s3
+- spark
+- notebook completely in html (no depency)
+## node.js microservices
+### what is it
+### disadvangate
+- lot of operations
+- difficult debugging
+### the company - kintohub
