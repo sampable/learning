@@ -29,11 +29,11 @@
 - [ ] try gsamokovarov/jump
 
 2018-05-09
-- [ ] what is .bashrc ?
-- [ ] what is `jump shell` ?
+- [x] what is .bashrc ? setup script(s) run on every interactive shell start
+- [x] what is `jump shell` ? setup scripts for gsamokovarov/jump integrating bash shell
 - [ ] what is `eval` in bash ?
 - [ ] what is the meaning of $ in `eval "$(jump shell)"`
-- [ ] test multiple lines code 
+- [x] test multiple lines code 
 ```javascript
 var s = "JavaScript syntax highlighting";
 alert(s);
