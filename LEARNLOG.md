@@ -32,7 +32,7 @@
 - [x] what is .bashrc ? setup script(s) run on every interactive shell start
 - [x] what is `jump shell` ? setup scripts for gsamokovarov/jump integrating bash shell
 - [x] what is `eval` in bash ? take a string as parameter and execute it like input directly in terminal
-- [ ] what is the meaning of $ in `eval "$(jump shell)"`
+- [x] what is the meaning of $ in `eval "$(jump shell)"` ? variable
 - [x] test multiple lines code 
 ```javascript
 var s = "JavaScript syntax highlighting";
