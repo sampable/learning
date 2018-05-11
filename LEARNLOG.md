@@ -26,7 +26,7 @@
 - [x] what the differents between "ng serve" and "ng build" ? "ng serve" will compile the code and start an http server, while "ng build" will build the app to an output directory
 
 2018-05-07
-- [ ] try gsamokovarov/jump
+- [x] try gsamokovarov/jump
 
 2018-05-09
 - [x] what is .bashrc ? setup script(s) run on every interactive shell start
